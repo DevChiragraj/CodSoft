@@ -1,0 +1,3 @@
+Download the csv file form kagale which contains the data of credit card real and fraud detection of size 144mb from below link
+
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
